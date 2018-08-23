@@ -1,0 +1,4 @@
+2018-07-04 11:34:41,252 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-07-04 11:34:41,252 - INFO - Mysql[line:39] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-07-04 11:34:41,307 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-07-04 11:34:41,308 - INFO - Mysql[line:39] - 即将执行sql【select notice from notice order by caredtime limit 1】

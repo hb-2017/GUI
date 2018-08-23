@@ -1,0 +1,174 @@
+2018-08-23 14:15:06,236 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-08-23 14:15:06,237 - INFO - Mysql[line:39] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 14:15:06,309 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-08-23 14:15:06,310 - INFO - Mysql[line:39] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 14:17:10,715 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-08-23 14:17:10,715 - INFO - Mysql[line:39] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 14:17:10,757 - INFO - Mysql[line:31] - 数据库【gui】连接成功
+2018-08-23 14:17:10,757 - INFO - Mysql[line:39] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 14:55:12,050 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 14:55:12,052 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 14:55:12,100 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 14:55:12,100 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:37:19,202 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,错误异常:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:37:19,325 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间值为654.0,290.0
+2018-08-23 15:41:42,432 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:41:42,528 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:53:05,953 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:53:06,066 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:53:14,019 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:14,021 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:53:20,893 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:20,893 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:53:28,701 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:28,702 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:53:28,716 - INFO - login[line:87] - 账号信息保存成功!!
+2018-08-23 15:53:28,743 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:28,743 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:53:35,501 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:53:37,791 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:37,794 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:53:37,847 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:37,847 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:53:47,092 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:53:47,232 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:53:54,533 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:54,536 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:53:54,549 - INFO - login[line:87] - 账号信息保存成功!!
+2018-08-23 15:53:54,575 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:53:54,576 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:53:58,975 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:54:05,541 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:54:05,543 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:54:05,555 - INFO - login[line:87] - 账号信息保存成功!!
+2018-08-23 15:54:05,595 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:54:05,595 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:55:40,811 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:55:46,584 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:55:46,586 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:55:46,629 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:55:46,629 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:55:50,654 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:55:50,748 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:55:56,229 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:55:56,231 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:56:15,405 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:56:15,405 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:57:07,541 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:57:07,641 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:57:09,514 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:15,164 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:15,166 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:57:15,235 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:15,235 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:57:20,628 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:57:20,729 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:57:26,285 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:26,287 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:57:26,349 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:26,350 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:57:30,234 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:57:30,326 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:57:36,046 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:36,048 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:57:36,065 - INFO - login[line:89] - 账号信息保存成功!!
+2018-08-23 15:57:36,093 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:36,093 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:57:43,223 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 15:57:45,419 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:45,421 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 15:57:45,462 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 15:57:45,462 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 15:59:43,177 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 15:59:43,270 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:00:18,061 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:00:18,159 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:00:29,488 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:00:29,490 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='21312'】
+2018-08-23 16:00:56,466 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:00:56,563 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:02:08,821 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:02:08,918 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:02:15,739 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:02:15,741 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:02:15,775 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:02:15,775 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:04:28,351 - ERROR - Pickle[line:53] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:04:28,437 - INFO - WhidowsInfo[line:34] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:04:34,315 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:10:45,710 - ERROR - Pickle[line:55] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:10:45,811 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:10:51,584 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:12:05,165 - ERROR - Pickle[line:55] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:12:05,268 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:12:10,959 - ERROR - Pickle[line:55] - 读取二进制文件【F:\Project\GUI/Data/Configs/账号.dat】失败,无法自动填写账号密码,错误信息:[Errno 2] No such file or directory: 'F:\\Project\\GUI/Data/Configs/账号.dat'
+2018-08-23 16:12:11,058 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:12:16,818 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:12:16,821 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:12:16,835 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:12:16,835 - INFO - login[line:114] - hubiao登录成功
+2018-08-23 16:12:16,863 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:12:16,863 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:13:25,661 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:13:28,492 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:13:28,494 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:13:28,516 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:13:28,543 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:13:28,543 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:13:45,252 - INFO - login[line:119] - hubiao登录成功
+2018-08-23 16:15:40,631 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:15:43,249 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:15:43,251 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:15:43,272 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:15:43,301 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:15:43,301 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:15:49,131 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:15:49,195 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:17:44,934 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:17:50,583 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:17:50,585 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:17:50,608 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:17:50,735 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:17:50,735 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:17:51,545 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:17:51,609 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:17:56,380 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:17:57,253 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:17:57,255 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:17:57,268 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:17:57,300 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:17:57,300 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:17:58,283 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:17:58,377 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:18:02,100 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:18:03,200 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:18:03,203 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:18:03,217 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:18:03,247 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:18:03,247 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:18:04,259 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:18:04,325 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:18:11,118 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:18:14,078 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:18:14,081 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:18:14,095 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:18:14,138 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:18:14,138 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:18:15,218 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:18:15,291 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:19:14,984 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:19:16,027 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:19:16,029 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:19:16,043 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:19:16,073 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:19:16,074 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:19:17,212 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:19:17,288 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:20:43,554 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
+2018-08-23 16:20:44,938 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:20:44,940 - INFO - Mysql[line:34] - 即将执行sql【select pwd from user_info where username='hubiao'】
+2018-08-23 16:20:44,954 - INFO - login[line:90] - 账号信息保存成功!!
+2018-08-23 16:20:44,991 - INFO - Mysql[line:21] - 数据库连接成功...
+2018-08-23 16:20:44,991 - INFO - Mysql[line:34] - 即将执行sql【select notice from notice order by caredtime limit 1】
+2018-08-23 16:20:46,150 - INFO - login[line:118] - hubiao登录成功
+2018-08-23 16:20:46,222 - INFO - WhidowsInfo[line:27] - 当前屏幕分辨率为508x1080,中间坐标为654.0,290.0
